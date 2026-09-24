@@ -73,27 +73,3 @@ I'm a developer in training focused on **full-stack development**, with a strong
   <img src="https://img.shields.io/badge/Linux-05122A?style=flat&logo=linux&logoColor=FCC624" />
   <img src="https://img.shields.io/badge/Docker-05122A?style=flat&logo=docker&logoColor=2496ED" />
 </p>
-
----
-
-## 📊 GitHub stats
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=bnomenja&show_icons=true&theme=default"
-    alt="Bnomenja's GitHub stats"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=bnomenja&layout=compact&theme=default"
-    alt="Most used languages"
-  />
-</p>
-
----
-
-<p align="center">
-  <i>Always learning, building, and exploring new technologies.</i>
-</p>
